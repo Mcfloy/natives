@@ -1,0 +1,25 @@
+{
+    "name": "natives-ragemp",
+    "version": "1.42.0",
+    "description": "Description",
+    "keywords": [
+		"gta",
+		"gtav",
+		"gta5",
+		"natives",
+		"ragemp"
+	],
+    "bugs": {
+        "url": "https://github.com/Mcfloy/natives/issues"
+    },
+    "license": "MIT",
+	"author": {
+		"name": "Lucas Perreau",
+		"email": "lucasperreau@gmail.com"
+	},
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Mcfloy/natives.git"
+    }
+}
