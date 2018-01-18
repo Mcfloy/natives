@@ -1,7 +1,7 @@
 {
     "name": "natives-ragemp",
     "version": "1.42.0",
-    "description": "Description",
+    "description": "A util package providing hash lists of GTA V's natives.",
     "keywords": [
 		"gta",
 		"gtav",
